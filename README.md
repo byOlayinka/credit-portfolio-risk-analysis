@@ -51,6 +51,7 @@ The report applies five required techniques:
 ## Reproducibility note
 
 The published RPubs report contains the full analysis code, outputs, visualisations, and interpretations. The raw dataset is withheld due to confidentiality restrictions, so this public repository is designed for transparency around the source code and data structure, not public release of internal data.
+I will share the data during my defence/presentation of the project
 
 ## Author
 
