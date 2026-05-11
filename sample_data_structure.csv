@@ -1,0 +1,6 @@
+loan_id,loan_amount,loan_term,is_bad,gender,most_recent_credit_date,dependants,income,application_channel,current_dpd,max_dpd,has_gps,credit_score
+SAMPLE_001,250000,30,0,Female,2025-09-15,1,350000,Android,0,0,Yes,0.74
+SAMPLE_002,500000,60,1,Male,2025-10-04,2,420000,iOS,15,45,Yes,0.52
+SAMPLE_003,150000,30,0,Female,2025-11-22,0,280000,Web,0,7,No,0.81
+SAMPLE_004,750000,90,1,Male,2026-01-18,3,610000,Android,30,60,Yes,0.48
+SAMPLE_005,300000,60,0,Female,2026-02-09,1,500000,iOS,0,0,No,0.69

@@ -1,0 +1,10 @@
+Credit Portfolio Risk Analysis Using Anonymised Loan Application Data
+
+Live RPubs report:
+https://rpubs.com/yinkayinkayinka/Credit_Portfolio_Risk_Analysis_Using_Anonymised_Loan_Application_Data
+
+GitHub repository:
+Paste your public GitHub repository link here after creating the repo.
+
+Confidentiality note:
+The original dataset is not included in the public repository because it is internal organisational data. A dummy sample structure file is included only to show the dataset format.
